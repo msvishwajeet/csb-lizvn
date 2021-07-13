@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://msvishwajeet.github.io/csb-lizvn/static/css/main.d427e026.chunk.css",
+    "main.js": "https://msvishwajeet.github.io/csb-lizvn/static/js/main.bd1f83aa.chunk.js",
+    "main.js.map": "https://msvishwajeet.github.io/csb-lizvn/static/js/main.bd1f83aa.chunk.js.map",
+    "runtime-main.js": "https://msvishwajeet.github.io/csb-lizvn/static/js/runtime-main.31d58ba9.js",
+    "runtime-main.js.map": "https://msvishwajeet.github.io/csb-lizvn/static/js/runtime-main.31d58ba9.js.map",
+    "static/js/2.1b78b709.chunk.js": "https://msvishwajeet.github.io/csb-lizvn/static/js/2.1b78b709.chunk.js",
+    "static/js/2.1b78b709.chunk.js.map": "https://msvishwajeet.github.io/csb-lizvn/static/js/2.1b78b709.chunk.js.map",
+    "index.html": "https://msvishwajeet.github.io/csb-lizvn/index.html",
+    "static/css/main.d427e026.chunk.css.map": "https://msvishwajeet.github.io/csb-lizvn/static/css/main.d427e026.chunk.css.map",
+    "static/js/2.1b78b709.chunk.js.LICENSE.txt": "https://msvishwajeet.github.io/csb-lizvn/static/js/2.1b78b709.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31d58ba9.js",
+    "static/js/2.1b78b709.chunk.js",
+    "static/css/main.d427e026.chunk.css",
+    "static/js/main.bd1f83aa.chunk.js"
+  ]
+}
